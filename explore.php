@@ -17,11 +17,11 @@
 			<h1 style=" font-size: 25px;">Travel Spot in Marinduque</h1>
 			<div class="nav-links" id="navLinks">
 				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="about.html">About</a></li>
-					<li><a href="explore.html">Explore</a></li>
-					<li><a href="feedback.html">Blogs</a></li>
-					<li><a href="contacts.html">Contacts</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="about.php">About</a></li>
+					<li><a href="explore.php">Explore</a></li>
+					<li><a href="blogs.php">Blogs</a></li>
+					<li><a href="contacts.php">Contacts</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -42,7 +42,7 @@
 		<div class="row" >
 			<div class="column" style="box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24); margin-bottom: 30px; height: 240px;">
 				<div class="content">
-					<img src="images/boac.png" style="width: 280px;height: 170px; margin-top: -43px; margin-left: -44px;">
+					<img src="images/boac.png" style="width: 300px;height: 170px; margin-top: -43px; margin-left: -44px;">
 					<?php
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "BOAC".  '</span>';
 
@@ -55,7 +55,7 @@
 
 			<div class="column" style="box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24); height: 240px;">
 				<div class="content">
-					<img src="images/sta.png" style="width: 280px;height: 170px; margin-top: -43px; margin-left: -44px;">
+					<img src="images/sta.png" style="width: 300px;height: 170px; margin-top: -43px; margin-left: -44px;">
 					
 					<?php
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "SANTA CRUZ".  '</span>';
@@ -69,7 +69,7 @@
 
 			<div class="column" style="box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24); height: 240px;">
 				<div class="content">
-					<img src="images/mogpog.png" style="width: 280px;height: 170px; margin-top: -40px; margin-left: -44px;">
+					<img src="images/mogpog.png" style="width: 300px;height: 170px; margin-top: -40px; margin-left: -44px;">
 					<?php
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "MOGPOG".  '</span>';
 
@@ -82,20 +82,20 @@
 
 			<div class="column" style="box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24); height: 240px;">
 				<div class="content">
-					<img src="images/torrijos.png" style="width: 280px;height: 170px; margin-top: -40px; margin-left: -44px;">
+					<img src="images/torrijos.png" style="width: 300px;height: 170px; margin-top: -40px; margin-left: -44px;">
 					<?php
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "TORRIJOS".  '</span>';
 
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Known for its white sand beaches, specifically the Poctoy White Beach".  '</span><br><br>';
 					 ?>
-					<a href="#"><button class="button"> EXPLORE </button></a>
+					<a href="torrijos.php"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 
 			<div class="column" style="box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24); height: 240px;">
 				<div class="content">
-					<img src="images/GASAN.png" style="width: 280px;height: 170px; margin-top: -40px; margin-left: -44px;">
+					<img src="images/GASAN.png" style="width: 300px;height: 170px; margin-top: -40px; margin-left: -44px;">
 					<?php
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "GASAN".  '</span>';
 
@@ -108,7 +108,7 @@
 
 			<div class="column" style="box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24); height: 240px;">
 				<div class="content">
-					<img src="images/buenavista.png" style="width: 280px;height: 170px; margin-top: -43px; margin-left: -44px;">
+					<img src="images/buenavista.png" style="width: 300px;height: 170px; margin-top: -43px; margin-left: -44px;">
 					<?php
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "BUENAVISTA".  '</span>';
 

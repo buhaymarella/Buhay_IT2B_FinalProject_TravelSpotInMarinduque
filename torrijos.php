@@ -16,17 +16,17 @@
 			<h1 style=" font-size: 25px;">Travel Spot in Marinduque</h1>
 			<div class="nav-links" id="navLinks">
 				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="about.html">About</a></li>
-					<li><a href="explore.html">Explore</a></li>
-					<li><a href="feedback.html">Blogs</a></li>
-					<li><a href="contacts.html">Contacts</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="about.php">About</a></li>
+					<li><a href="explore.php">Explore</a></li>
+					<li><a href="blogs.php">Blogs</a></li>
+					<li><a href="contacts.php">Contacts</a></li>
 				</ul>
 			</div>
 		</nav>
 <div class="text-box">
 	<h1 style="margin-top: 20px;">TORRIJOS</h1>
-	<p> Making website is now one of the easiest hing in the world. You just need to learn to learn HTML, CSS,<br> JAVASCRIPT and you are good to go.</p>
+	<p> Discover the Beauty of Torrijos</p>
 </div>
 	</section>
 
@@ -43,7 +43,7 @@
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the famous foods in Torrijos, Marinduque".  '</span><br><br>';
 					 ?>
-					<a href="torrijos_food.html"><button class="button"> EXPLORE </button></a>
+					<a href="tor-food.php"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 
@@ -56,7 +56,7 @@
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the best tourist spot that you can visit.".  '</span><br><br>';
 					 ?>
-					<a href="torrijos_place.html"><button class="button"> EXPLORE </button></a>
+					<a href="tor-place.php"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 
@@ -69,7 +69,7 @@
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the festivals held in Torrijos".  '</span><br><br><br>';
 					 ?>
-					<a href="torrijos_fes.html"><button class="button"> EXPLORE </button></a>
+					<a href="tor-fes.php"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 
