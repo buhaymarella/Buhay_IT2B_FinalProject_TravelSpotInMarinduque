@@ -19,14 +19,13 @@
 					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
 					<li><a href="explore.php">Explore</a></li>
-					<li><a href="blogs.php">Blogs</a></li>
 					<li><a href="contacts.php">Contacts</a></li>
 				</ul>
 			</div>
 		</nav>
 <div class="text-box">
 	<h1 style="margin-top: 20px;">GASAN</h1>
-	<p> Discover the Beauty of Gasan</p>
+	<p style="font-size: 30px;"> Discover the Beauty of Gasan</p>
 </div>
 	</section>
 
@@ -41,7 +40,7 @@
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "FOOD".  '</span>';
 
 						echo "<br>";
-						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the famous foods in Torrijos, Marinduque".  '</span><br><br>';
+						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the famous foods in Gasan, Marinduque".  '</span><br><br>';
 					 ?>
 					<a href="tor-food.php"><button class="button"> EXPLORE </button></a>
 				</div>
@@ -49,7 +48,7 @@
 
 			<div class="column" style="box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24); margin-left: 140px;">
 				<div class="content">
-					<img src="images/place-banner.jpg" style="width: 320px;height: 180px; margin-top: -43px; margin-left: -44px;">
+					<img src="images/gasanchurch.jpeg" style="width: 320px;height: 180px; margin-top: -43px; margin-left: -44px;">
 					<?php
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "PLACE".  '</span>';
 
@@ -62,12 +61,12 @@
 
 			<div class="column" style="box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24); margin-left: 140px;">
 				<div class="content">
-					<img src="images/fes-banner.jpg" style="width: 320px;height: 180px; margin-top: -43px; margin-left: -44px;">
+					<img src="images/gasan-cover.jpg" style="width: 320px;height: 180px; margin-top: -43px; margin-left: -44px;">
 					<?php
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "FESTIVALS".  '</span>';
 
 						echo "<br>";
-						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the festivals held in Torrijos".  '</span><br><br><br>';
+						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the festivals held in Gasan".  '</span><br><br><br>';
 					 ?>
 					<a href="tor-fes.php"><button class="button"> EXPLORE </button></a>
 				</div>
