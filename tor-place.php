@@ -30,16 +30,16 @@
 	</section>
 
 	<h1 style="color: black; font-size:50px; text-align:center; margin-top: 20px;">FAMOUS PLACE IN TORRIJOS</h1>
-	<div class="container" style="height: 1000px; margin-top: 100px;">
+	<div class="container" style="height: 1200px; margin-top: 100px;">
 		<div class="ctr">
   			<img src="images/payanas.jpeg" style="width:100%; ">
   			<div class="ct" style="box-shadow: rgba(0, 0, 0, 0.24)0px 7px 15px;">
     			<?php
-						echo '<span style="font-size: 30px; font-weight: bold;"> ' . "PAYANAS VIEW DECK".  '</span>';
+						echo '<span style="font-size: 30px; font-weight: bold;"> ' . "PAYANAS VIEW DECK".  '</span><br>';
 
 						echo "<br>";
-						echo '<span style="color: white; font-size: 15px;"> ' . "It is like a paper-thin pancake consisting of overripe saba or latundan mixed with flour and some buko slices sandwiched between two banana leaves. ".  '</span><br>';
-						echo '<span style="color: white; font-size: 15px;"> ' . "It is then placed in a big carajay and turned over from time to time until both sides of the leaves are brown and wrinkled ".  '</span><br><br><br>';
+						echo '<span style="color: white; font-size: 15px;"> ' . "One of torrijos' tourist spot located at Payanas, Torrijos, Marinduque. It is perfect for those who like to take instagramable photos because of its location where a perfect view can be seen. . ".  '</span><br><br><br>';
+						
 				?>
   			</div>
 
@@ -49,11 +49,11 @@
 			<img src="images/bangwayin.jpeg" style="width:100%; ">
   			<div class="ct" style="box-shadow: rgba(0, 0, 0, 0.24)0px 7px 15px;">
     			<?php
-						echo '<span style="font-size: 30px; font-weight: bold;"> ' . "BANGWAYIN FARM".  '</span>';
+						echo '<span style="font-size: 30px; font-weight: bold;"> ' . "BANGWAYIN FARM".  '</span><br>';
 
 						echo "<br>";
-						echo '<span style="color: white; font-size: 15px;"> ' . "Nilubak or niyupak is a boiled green sabas are pounded with a lusong (pestle) together with grated coconut and sugar.  ".  '</span><br>';
-						echo '<span style="color: white; font-size: 15px;"> ' . "The process of making niyubak is done through pounding of bananas, while the coconut was gradually added, until the consistensy is thick and sticky. ".  '</span><br>';
+						echo '<span style="color: white; font-size: 15px;"> ' . "Located at Bangwayin, Torrijos, Marinduque. This place is perfect for the person who likes to unwind, those who like calming place because of its high location where a perfect scenery can be seen..  ".  '</span><br><br><br>';
+						
 				?>
   			</div>
 		</div>
@@ -65,7 +65,7 @@
 						echo '<span style="font-size: 30px; font-weight: bold;"> ' . "BATTLE OF PULANG LUPA".  '</span>';
 
 						echo "<br>";
-						echo '<span style="color: white; font-size: 15px;"> ' . "Lomi is another famous dish in torrijos, it is made with a variety of thick fresh egg noodles of about a quarter of an inch in diameter, soaked in lye water to give it more texture.  ".  '</span><br>';
+						echo '<span style="color: white; font-size: 15px;"> ' . "For those person who likes to go to historic places, this one is perfect for you. The Battle of Pulang Lupa Marker was built in memory of the Marinduque revolutionary forces that fought the Americans. A marker stands at the site of the bloodiest battle ever fought in the island, the first known major battle won by the Filipinos over the Americans. So you can enjoy the visit while also learning about history.  ".  '</span><br>';
 				?>
   			</div>
 		</div>
@@ -74,10 +74,10 @@
 			<img src="images/place-banner.jpg" style="width:100%; ">
   			<div class="ct" style="box-shadow: rgba(0, 0, 0, 0.24)0px 7px 15px;">
     			<?php
-						echo '<span style="font-size: 30px; font-weight: bold;"> ' . "POCTOY WHITE BEACH".  '</span>';
+						echo '<span style="font-size: 30px; font-weight: bold;"> ' . "POCTOY WHITE BEACH".  '</span><br>';
 
 						echo "<br>";
-						echo '<span style="color: white; font-size: 15px;"> ' . "Lomi is another famous dish in torrijos, it is made with a variety of thick fresh egg noodles of about a quarter of an inch in diameter, soaked in lye water to give it more texture.  ".  '</span><br>';
+						echo '<span style="color: white; font-size: 15px;"> ' . "Known as the best beach alternative to Boracay, this is considered as one of the finest beaches in Marinduque. It boasts of the be stunning white sands, clear waters and a beautiful scenery that you can enjoy while doing various activities such as surfing, diving, and snorkeling.  ".  '</span><br><br><br><br><br><br>';
 				?>
   			</div>
 		</div>

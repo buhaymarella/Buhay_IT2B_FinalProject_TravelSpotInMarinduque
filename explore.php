@@ -102,7 +102,7 @@
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Home of best tourist spot in Marinduque".  '</span><br><br>';
 					 ?>
-					<a href="#"><button class="button"> EXPLORE </button></a>
+					<a href="gasan.php"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 
