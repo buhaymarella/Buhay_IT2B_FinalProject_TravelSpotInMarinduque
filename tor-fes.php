@@ -19,7 +19,6 @@
 					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
 					<li><a href="explore.php">Explore</a></li>
-					<li><a href="blogs.php">Blogs</a></li>
 					<li><a href="contacts.php">Contacts</a></li>
 				</ul>
 			</div>
@@ -40,6 +39,18 @@
 						echo "<br>";
 						echo '<span style="color: white; font-size: 15px;"> ' . "A festival where the people of torrijos honors the MANGANGARIT and TUBA drinking. That was held every 17th of January ".  '</span><br>';
 						echo '<span style="color: white; font-size: 15px;"> ' . "It coincides with the town fiesta. And celebrated through street dancing utilizing props of bamboo and coconut materials accompanied by drum and lyre bands ".  '</span><br>';
+				?>
+  			</div>
+		</div>
+
+		<div class="ctr">
+  			<img src="images/morion.jpg" style="width:100%; ">
+  			<div class="ct" style="box-shadow: rgba(0, 0, 0, 0.24)0px 7px 15px;">
+    			<?php
+						echo '<span style="font-size: 30px; font-weight: bold;"> ' . "<br>MORIONES FESTIVAL".  '</span>';
+
+						echo "<br>";
+						echo '<span style="color: white; font-size: 15px;"> ' . "<br>The Moriones is a lenten festival held annually on Holy Week on the island of Marinduque, Philippines. The 'Moriones' are men and women in costumes and masks replicating the garb of biblical Imperial and Royal Roman soldiers as interpreted by locals.. ".  '</span><br><br><br><br>';
 				?>
   			</div>
 		</div>

@@ -12,7 +12,7 @@
 </head>
 <body>
 
-	<section class="banner" style=" height: 240vh; background-image:  filter: blur(8px), linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url(images/image1.jpeg);">
+	<section class="banner" style=" height: 255vh; background-image:  filter: blur(8px), linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url(images/image1.jpeg);">
 		<nav>
 			<h1 style=" font-size: 25px;">Travel Spot in Marinduque</h1>
 			<div class="nav-links" id="navLinks">
@@ -20,7 +20,6 @@
 					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
 					<li><a href="explore.php">Explore</a></li>
-					<li><a href="blogs.php">Blogs</a></li>
 					<li><a href="contacts.php">Contacts</a></li>
 				</ul>
 			</div>
@@ -63,7 +62,7 @@
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Known for its biggest Lenten Festival, the Moriones".  '</span><br><br>';
 					 ?>
-					<a href="sta_explore.html"><button class="button"> EXPLORE </button></a>
+					<a href="#"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 
@@ -115,7 +114,7 @@
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Where MT. Malindig looms over.".  '</span><br><br><br>';
 					 ?>
-					<a href="#"><button class="button"> EXPLORE </button></a>
+					<a href="buenavista.php"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 

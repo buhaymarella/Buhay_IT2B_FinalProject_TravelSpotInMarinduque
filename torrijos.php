@@ -19,14 +19,13 @@
 					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
 					<li><a href="explore.php">Explore</a></li>
-					<li><a href="blogs.php">Blogs</a></li>
 					<li><a href="contacts.php">Contacts</a></li>
 				</ul>
 			</div>
 		</nav>
 <div class="text-box">
 	<h1 style="margin-top: 20px;">TORRIJOS</h1>
-	<p> Discover the Beauty of Torrijos</p>
+	<p style="font-size:30px;"> Discover the Beauty of Torrijos</p>
 </div>
 	</section>
 

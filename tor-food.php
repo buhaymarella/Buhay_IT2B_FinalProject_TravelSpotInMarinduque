@@ -19,7 +19,6 @@
 					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
 					<li><a href="explore.php">Explore</a></li>
-					<li><a href="blogs.php">Blogs</a></li>
 					<li><a href="contacts.php">Contacts</a></li>
 				</ul>
 			</div>

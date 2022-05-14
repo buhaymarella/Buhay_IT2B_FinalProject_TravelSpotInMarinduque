@@ -66,7 +66,7 @@
 						echo '<span style="font-size: 20px; font-weight: bold;"> ' . "FESTIVALS".  '</span>';
 
 						echo "<br>";
-						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the festivals held in Buenavista".  '</span><br><br><br>';
+						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the festivals held in Buenavista".  '</span><br><br>';
 					 ?>
 					<a href="buen-fes.php"><button class="button"> EXPLORE </button></a>
 				</div>

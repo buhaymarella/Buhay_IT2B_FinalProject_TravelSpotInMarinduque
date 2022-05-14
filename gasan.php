@@ -42,7 +42,7 @@
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the famous foods in Gasan, Marinduque".  '</span><br><br>';
 					 ?>
-					<a href="tor-food.php"><button class="button"> EXPLORE </button></a>
+					<a href="gas-food.php"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 
@@ -55,7 +55,7 @@
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the best tourist spot that you can visit.".  '</span><br><br>';
 					 ?>
-					<a href="tor-place.php"><button class="button"> EXPLORE </button></a>
+					<a href="gas-place.php"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 
@@ -68,7 +68,7 @@
 						echo "<br>";
 						echo '<span style="color: black; font-size: 12px;"> ' . "Discover the festivals held in Gasan".  '</span><br><br><br>';
 					 ?>
-					<a href="tor-fes.php"><button class="button"> EXPLORE </button></a>
+					<a href="gas-fes.php"><button class="button"> EXPLORE </button></a>
 				</div>
 			</div>
 
