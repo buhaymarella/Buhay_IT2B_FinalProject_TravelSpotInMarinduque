@@ -2,7 +2,6 @@
 
 <!DOCTYPE travel-spot [
 <!ELEMENT travel-spot (home, explore, about, contacts )>
-<!ELEMENT home ()>
 <!ELEMENT explore (navigation, image, municipality, footer)>
 <!ELEMENT municipality (boac, santa-cruz, mogpog, torrijos, gasan, buenavista)>
 <!ELEMENT torrijos (navigation, food, place, festival, footer)>
@@ -92,7 +91,7 @@
 		<navigation no="3">About</navigation>
 		<navigation no="4">Contacts</navigation>
 
-		<image>Map of Marinduque<image>
+		<image>Map of Marinduque</image>
 
 		<municipality>
 			<boac></boac>
