@@ -11,7 +11,7 @@
 	<title>website</title>
 </head>
 <body>
-	<section class="banner" style="height: 120vh;">
+	<section class="banner" style="height: 130vh;">
 		<nav>
 			<h1 style="color: white;font-size: 25px;">Travel Spot in Marinduque</h1>
 			<div class="nav-links" id="navLinks">
@@ -23,16 +23,15 @@
 					<li><a href="contact.php">Contacts</a></li>
 				</ul>
 			</div>
-			<i class="fa fa-bars" onclick="showMenu()"></i>
 		</nav>
-			<div class="visit">
+			<div class="visit" style=" width: 1500px; text-align:center; margin-left:50px; padding-top: 20px;">
 			<h1 style="margin-top: -10px; text-align: center; font-size: 60px;">MARINDUQUE PROVINCE</h1>
 			<div class="contact-box"style=" background-color: whitesmoke; border-radius: 60px;">
 
-				<div class="visit">
+				<div class="visit" style="text-align: center; margin: 10px;">
 							<?php 
  
-						echo '<span style="color: black; font-size: 15px; margin top: 15px;"> ' . " Marinduque  is an island province in the Philippines located in Southwestern Tagalog Region or Mimaropa, formerly designated as Region IV-B. Its capital is the municipality of Boac. Marinduque lies between Tayabas Bay to the north and Sibuyan Sea to the south. It is west of the Bondoc Peninsula of Quezon province; east of Mindoro Island; and north of the island province of Romblon. Some parts of the Verde Island Passage, the center of the center of world's marine biodiversity and a protected marine area, are also within Marinduque's provincial waters.
+						echo '<span style="color: black; font-size: 15px; margin top: 15px;"> ' . " <br>Marinduque  is an island province in the Philippines located in Southwestern Tagalog Region or Mimaropa, formerly designated as Region IV-B. Its capital is the municipality of Boac. Marinduque lies between Tayabas Bay to the north and Sibuyan Sea to the south. It is west of the Bondoc Peninsula of Quezon province; east of Mindoro Island; and north of the island province of Romblon. Some parts of the Verde Island Passage, the center of the center of world's marine biodiversity and a protected marine area, are also within Marinduque's provincial waters.
                     The province of Marinduque was ranked number 1 by the Philippine National Police and Philippine Security Forces as the 2013 Most Peaceful Province of the country due to its low crime rate statistics alternately ranking with the province of Batanes yearly. Furthermore, for almost 200 years, the province is home to one of the oldest religious festivals of the country, the Moriones celebrated annually every Holy Week.<br>".  '</span><br>';
 				
 
@@ -65,23 +64,6 @@
 			<a href="#"><img src="images/icon4.png"></a>
 		</div>
 
-
-
-
-
-
-<!--------JavaScript for Toggle Menu-------->
-<script>
-
-	var navLinks = document.getElementById("navLinks");
-
-	function showMenu(){
-		navLinks.style.right = "0";
-	}
-	function hideMenu(){
-		navLinks.style.right = "-200px";
-	}
-	</script>
 
 </body>
 </html>
