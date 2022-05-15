@@ -35,7 +35,7 @@
   			<img src="images/kangga festival.jpeg"  style="width:100%; height: 300px; ">>
   			<div class="ct"  style="box-shadow: rgba(0, 0, 0, 0.24)0px 7px 15px;">
   					<?php 
-  					echo '<span style="font-size: 30px; font-weight: bold;"> ' . "<br><br> ATI-ATIHAN FESTIVAL".  '</span><br>';
+  					echo '<span style="font-size: 30px; font-weight: bold;"> ' . "<br><br> KANGGA FESTIVAL".  '</span><br>';
 
 						echo "<br>";
 							echo '<span style="color: white; font-size: 15px; margin top: 15px;"> ' . "During the month of May, the people of the agricultural town of Mogpog in Marinduque celebrates their thanksgiving festival for their annual harvests in honor of their patron saint, San Isidro Labrador. The aim of this festival is to pay tribute to the saint and to the farmers who made a solemn effort on their land for numerous months. Kangga Festival was implemented by the local government which is celebrated annually to correspond with San Isidro Labrador’s feast day of May 13.“Kangga” in Marinduquenian Tagalog, is a sled made of bamboo usually carried by carabao. It is used by farmers to transport tools or harvests from their homes to the fields or to the market.<br>".  '</span><br>';
