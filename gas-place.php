@@ -72,7 +72,7 @@
 
 
 	<div class="footer" style="background-color: white;">
-			<p> &copy; 2022 Travel Marinduque <br> Santa Cruz, Marinduque - Philippines <br> Telephone no. (+63)  (+63) 966-1690-4201. All Rights Reserved</p>
+			<p> &copy; 2022 Travel Marinduque <br> Santa Cruz, Marinduque - Philippines <br> Telephone no. (+63) 966-1690-4201. All Rights Reserved</p>
 
 
 			<a href="#"><img src="images/icon1.png"></a>

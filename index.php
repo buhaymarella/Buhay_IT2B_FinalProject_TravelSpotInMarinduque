@@ -17,9 +17,9 @@
 				<i class="fa fa-times" onclick="hideMenu()"></i>
 				<ul>
 					<li><a href="index.php">Home</a></li>
-					<li><a href="about.html">About</a></li>
-					<li><a href="explore.html">Explore</a></li>
-					<li><a href="contacts.html">Contacts</a></li>
+					<li><a href="about.php">About</a></li>
+					<li><a href="explore.php">Explore</a></li>
+					<li><a href="contact.php">Contacts</a></li>
 				</ul>
 			</div>
 		</nav>
